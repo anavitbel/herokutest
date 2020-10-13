@@ -1,8 +1,8 @@
 {
-  "encoding": "UTF-8"
+  "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "Anavitbel"
+      "X-Author": "Anavitbel",
       "Access-Control-Allow-Origin": "*"
     }
   }
