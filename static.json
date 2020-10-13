@@ -3,7 +3,7 @@
   "headers": {
     "/*": {
       "X-Author": "Anavitbel"
-      "*": "Access-Control-Allow-Origin"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
