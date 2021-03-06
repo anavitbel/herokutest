@@ -2,7 +2,7 @@
   "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "*",
+      "X-Author": "anavitbel",
       "Access-Control-Allow-Origin": "*"
     }
   }
