@@ -2,7 +2,7 @@
   "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "190524",
+      "X-Author": "*",
       "Access-Control-Allow-Origin": "*"
     }
   }
