@@ -4,6 +4,7 @@
     "/sample/": "/sample.html",
     "/promise/": "promise.html",
     "/fetch/": "fetch.html"
+    "/result4/": "result4.html"
   },
   
   "headers": {
@@ -24,6 +25,9 @@
       "Access-Control-Allow-Origin": "*"
     },
     "/fetch/": {
+      "Access-Control-Allow-Origin": "*"
+    }
+    "/result4/": {
       "Access-Control-Allow-Origin": "*"
     }
   }
